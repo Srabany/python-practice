@@ -1,8 +1,8 @@
-#📘 Python Practice Repository
+# 📘 Python Practice Repository
 
 This repository contains my complete Python learning journey, organized topic-wise from basics to advanced concepts. It includes hands-on programs, Jupyter notebooks, and small projects created while practicing Python in VS Code.
 
-##🔹 Topics Covered
+## 🔹 Topics Covered
 
 * Python Basics
 
@@ -32,6 +32,6 @@ This repository contains my complete Python learning journey, organized topic-wi
 
 * Advanced Python Concepts
 
-##🔹 About This Repository
+## 🔹 About This Repository
 
 Each folder contains practical exercises that helped me build logic, understand Python concepts, and apply them in small real-world examples. This repo reflects consistent practice, experimentation, and steady progress in Python programming.
